@@ -1,0 +1,9 @@
+If a move is made on the leftmost face down card that card and the card to its immediate right may no longer be turned face down as there is no face down card immediately to the left of either.
+
+In order to avoid this a move must be made on a card in the middle or the rightmost card.
+
+After making such a move there are either 2 or 1 face up cards. A move made now will either:
+- turn 1 card face up and 1 card face down if the chosen card is immediately to the left to a face up card OR
+- turn 2 cards face up if the chosen card isn't the rightmost card or adjacent to a face up card
+
+None of these options allow the number of face up cards to decrease and taking the first option will eventually cause the leftmost face down card to be chosen which will gradually increase the number of face up cards until they are all face up.
