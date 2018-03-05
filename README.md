@@ -16,6 +16,6 @@ And yeah, you could Google the answers, but where's the fun in that.
 
 ______________
 
-FIRST PUZZLE IS UP!
+SECOND PUZZLE IS UP!
 
-Check the `week_01` directory.
+Check the `flower-garden` directory.
