@@ -1,0 +1,14 @@
+The of course not student is correct.
+
+If all 3 colors were equally likely (33.33%), no statistician would suggest that you were bound to get a red or blue from a random pick of 3 flowers. (if you were to pick say 10 flowers, a statistician could well say that at least one was bound to be red / blue / etc)
+
+In order for a statistician to truthfully say you're bound to get a red in a set of three random picks, then the percentage of of red must be significantly greater than 33.3%, and of course the same applies to blue.
+
+if both red and blue flowers are present in significantly higher proportion than 1/3, then it follows the proportion of yellow must be significantly lower.
+
+For both statistician's observations to be correct the proportion of flowers must be something like
+red: 49.5%
+blue: 49.5%
+yellow: 1%
+
+And if this is the case the assertion that you'd be bound to get a yellow in a random set of three flowers is in fact false.
