@@ -12,3 +12,16 @@ blue: 49.5%
 yellow: 1%
 
 And if this is the case the assertion that you'd be bound to get a yellow in a random set of three flowers is in fact false.
+
+
+#############################
+##    Moderator feedback   ##
+#############################
+
+If we assume percentages similar to what you have, where two colours are in majority to the third...
+then let's say the minimum number of flowers in the garden in order to think about this is 7 flowers:
+3 of colour A (in the qu, red), 3 of colour B (in the qu, yellow) and only one of colour C (in the qu, blue).
+This would be roughly 43%, 43%, 14%.
+
+Is it possible to pick only 3 colour A flowers? Yes. Which makes the first statistician right but the second one wrong.
+Is it possible to pick only 3 colour B flowers? Yes. Which makes the second statistician right but the first one wrong...
