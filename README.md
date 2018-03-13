@@ -38,6 +38,6 @@ And yeah, you could Google the answers, but where's the fun in that.
 
 ______________
 
-SECOND PUZZLE IS UP!
+THIRD PUZZLE IS UP!
 
-Check the `flower-garden` directory.
+Check the `03-numeric-pattern` directory.
