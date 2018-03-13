@@ -40,4 +40,4 @@ ______________
 
 THIRD PUZZLE IS UP!
 
-Check the `03-numeric-pattern` directory.
+Check the `03-numeric-sequence` directory.
