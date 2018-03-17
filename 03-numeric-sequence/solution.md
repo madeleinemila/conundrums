@@ -9,4 +9,4 @@ Therefore:
 
 x = 3 + 2 + 1 + 7 = 13
 
-So the value of <strong></strong> is <strong>13</strong>
+So the value of <strong>"x"</strong> is <strong>13</strong>
