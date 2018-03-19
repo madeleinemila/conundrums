@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/bin/Debug/netcoreapp2.0/solution_Jose.deps.json
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/bin/Debug/netcoreapp2.0/solution_Jose.runtimeconfig.json
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/bin/Debug/netcoreapp2.0/solution_Jose.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/bin/Debug/netcoreapp2.0/solution_Jose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/bin/Debug/netcoreapp2.0/solution_Jose.pdb
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/obj/Debug/netcoreapp2.0/solution_Jose.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/obj/Debug/netcoreapp2.0/solution_Jose.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/obj/Debug/netcoreapp2.0/solution_Jose.AssemblyInfo.cs
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/obj/Debug/netcoreapp2.0/solution_Jose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/04-equality/solution_Jose/obj/Debug/netcoreapp2.0/solution_Jose.pdb
