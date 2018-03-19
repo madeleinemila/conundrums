@@ -38,6 +38,6 @@ And yeah, you could Google the answers, but where's the fun in that.
 
 ______________
 
-THIRD PUZZLE IS UP!
+FOURTH PUZZLE IS UP!
 
-Check the `03-numeric-sequence` directory.
+Check the `04-equality` directory.
