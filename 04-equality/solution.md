@@ -26,7 +26,7 @@ if (a== 1 && a ==2 && a==3) {
 
 An underhanded method - using whitespace characters that are recognised as valid in variable names:
 
-N.B. The odd spacing in the original expression is apparently how the question was presented, so this could've been the approach the interview was looking for.
+N.B. The odd spacing in the original expression is apparently how the question was presented, so this could've been the approach the interviewer was looking for. More discussion and variations on this on the SO link.
 
 ```JAVASCRIPT
 // For example, I've written this with Korean half-width Hangul characters in the variable names,
