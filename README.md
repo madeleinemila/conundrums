@@ -38,6 +38,6 @@ And yeah, you could Google the answers, but where's the fun in that.
 
 ______________
 
-FOURTH PUZZLE IS UP!
+NEW PUZZLE IS UP!
 
-Check the `04-equality` directory.
+Check the `05-arthur-york` directory.
