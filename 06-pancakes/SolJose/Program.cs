@@ -9,24 +9,19 @@ namespace SolJose
             int res = 0,index = 0, i;
             char[] aux = s.ToCharArray();
 
-            while (true)
-            {
-                for (i = index;i<aux.Length;i++)
-                    if (aux[i] == '-'){
-                        index = i;
-                        break;
-                    }
-                
-                if (i >= aux.Length) break;
-                if (index+num > aux.Length) return -1;
-                res++;
-
-                for (int j=index; j<index+num; j++)
-                    aux[j] = aux[j]=='-'? '+':'-';
-            }
+            for (i = index;i<aux.Length;i++)
+                if (aux[i]=='-')
+                {
+                    index = i;
+                    if (index+num > aux.Length) return -1;
+                    res++;
+                    for (int j=index; j<index+num; j++)
+                        aux[j] = aux[j]=='-'? '+':'-';
+                    index++;
+                }
             return res;
         }
-        
+
         static void Main(string[] args)
         {
             int n  = Int32.Parse(Console.ReadLine());
