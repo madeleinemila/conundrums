@@ -11,7 +11,7 @@ No code required, although feel free to code it out if that's what you feel.
 
 General vibe so far:
 
-MONDAY
+MONDAY(ish)
 
 A new puzzle is posted (in its own directory).
 
@@ -28,7 +28,7 @@ If you want to hear from the person that set the puzzle, and find out if you’r
 
 
 
-SUNDAY
+SUNDAY(ish)
 
 Answers are posted.
 
@@ -40,4 +40,4 @@ ______________
 
 NEW PUZZLE IS UP!
 
-Check the `05-arthur-york` directory.
+Check the `06-pancakes` directory.
