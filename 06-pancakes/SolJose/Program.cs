@@ -26,6 +26,7 @@ namespace SolJose
             }
             return res;
         }
+        
         static void Main(string[] args)
         {
             int n  = Int32.Parse(Console.ReadLine());
