@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/bin/Debug/netcoreapp2.0/SolJose.deps.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/bin/Debug/netcoreapp2.0/SolJose.runtimeconfig.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/bin/Debug/netcoreapp2.0/SolJose.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/bin/Debug/netcoreapp2.0/SolJose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/bin/Debug/netcoreapp2.0/SolJose.pdb
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/obj/Debug/netcoreapp2.0/SolJose.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/obj/Debug/netcoreapp2.0/SolJose.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/obj/Debug/netcoreapp2.0/SolJose.AssemblyInfo.cs
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/obj/Debug/netcoreapp2.0/SolJose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/SolJose/obj/Debug/netcoreapp2.0/SolJose.pdb
