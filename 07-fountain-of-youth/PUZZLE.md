@@ -2,14 +2,15 @@
 
 We are back on the Island of Knights and Knaves (where **knights make only true statements and knaves only false ones**). Reynolds arrived without mishap, and his adventures began.
 
-1. A Preliminary Incident:
+
+### 1. A Preliminary Incident:
 
 On the first day, Reynolds met a native who made a statement. Reynolds then realized that if the native was a knight, the Fountain of Youth must be on the island, but if the native was a knave, there was no way of telling whether or not the Fountain of Youth was on the island...
 
 What statement could the native have made?
 
 
-2. A Grand Metapuzzle:
+### 2. A Grand Metapuzzle:
 
 Reynolds's next adventure was far more interesting - it involves as profound a logic puzzle as any I have ever come across.
 
