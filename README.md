@@ -40,4 +40,4 @@ ______________
 
 NEW PUZZLE IS UP!
 
-Check the `06-pancakes` directory.
+Check the `07-fountain-of-youth` directory.
