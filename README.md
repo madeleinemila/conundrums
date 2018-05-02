@@ -1,25 +1,25 @@
 # Conundrums
 
-Pseudo-weekly puzzles to keep the corners of our brains sharp.
+An archive of pseudo-weekly puzzles to keep the corners of our brains sharp.
 
 Logic puzzles, algorithm exposure and programmatic thinking.
 
 ______________
 
-Answers can take any form.
-No code required, although feel free to code it out if that's what you feel.
+Answers could take any form.
+No code required, although you could code it out if that's what you felt.
 
-General vibe so far:
+General vibe was:
 
 MONDAY(ish)
 
-A new puzzle is posted (in its own directory).
+A new puzzle was posted (in its own directory).
 
 
 
 THROUGHOUT THE WEEK
 
-You can think about answers, or not. This repo is there for you when you have downtime.
+You could think about answers, or not. This repo is there for you when you have downtime.
 If you want to hear from the person that set the puzzle, and find out if you’re on the right track, either:
 
 - submit a pull request
@@ -30,14 +30,8 @@ If you want to hear from the person that set the puzzle, and find out if you’r
 
 SUNDAY(ish)
 
-Answers are posted.
+Answers were posted.
 
 
 
 And yeah, you could Google the answers, but where's the fun in that.
-
-______________
-
-NEW PUZZLE IS UP!
-
-Check the `07-fountain-of-youth` directory.
