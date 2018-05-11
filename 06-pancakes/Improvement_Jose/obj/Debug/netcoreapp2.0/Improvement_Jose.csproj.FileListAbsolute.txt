@@ -1,0 +1,10 @@
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/bin/Debug/netcoreapp2.0/Improvement_Jose.deps.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/bin/Debug/netcoreapp2.0/Improvement_Jose.runtimeconfig.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/bin/Debug/netcoreapp2.0/Improvement_Jose.runtimeconfig.dev.json
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/bin/Debug/netcoreapp2.0/Improvement_Jose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/bin/Debug/netcoreapp2.0/Improvement_Jose.pdb
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/obj/Debug/netcoreapp2.0/Improvement_Jose.csproj.CoreCompileInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/obj/Debug/netcoreapp2.0/Improvement_Jose.AssemblyInfoInputs.cache
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/obj/Debug/netcoreapp2.0/Improvement_Jose.AssemblyInfo.cs
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/obj/Debug/netcoreapp2.0/Improvement_Jose.dll
+/Users/joseguerrero/Projects/conundrums/conundrums/06-pancakes/Improvement_Jose/obj/Debug/netcoreapp2.0/Improvement_Jose.pdb
